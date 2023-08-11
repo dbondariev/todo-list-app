@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@mui/icons-material": "^5.14.3",
+    "@mui/material": "^5.14.4",
     "core-js": "^3.8.3",
     "vue": "^3.2.13"
   },
